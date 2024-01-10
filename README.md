@@ -1,6 +1,6 @@
 ## News Inflation Anchoring 
 
-The goal of this project is to study the impact news opintions on the Bank of England have on shaping inflation expectations. From a large data set of Financial Times articles on the bank of England, we build a training data set using chat-gpt that classifies sentences into negative, positive or other. We then train a llama-2 model on that dataset which we use to construct a time series of news opintions. This repository includes all our data, model and codes. 
+The goal of this project is to study the impact news opintions on the Bank of England have on shaping inflation expectations. From a large data set of Financial Times articles on the bank of England, we build a training data set using chat-gpt that classifies news sentences into "negative", "positive" or "other". We then train a llama-2 model on our data set which we use to construct a time series of news opintions. This repository includes all our data, model and codes. 
 
 ### Using Llama-2 to Extract Financial Times Opinions on the Bank of England
 
