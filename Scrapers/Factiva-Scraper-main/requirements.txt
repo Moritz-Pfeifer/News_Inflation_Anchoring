@@ -1,0 +1,6 @@
+splinter
+selenium
+BeautifulSoup4
+dateparser
+configparser
+webdriver_manager
